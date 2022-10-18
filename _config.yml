@@ -16,7 +16,7 @@
 title: Study Notes    
 description: 알고 싶은 것도 많고, 알아야 할 것도 많고
 #baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
-baseurl: "/Notes" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jeongcho.github.io/Notes" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
